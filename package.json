@@ -77,7 +77,7 @@
     "@rollup/plugin-replace": "3.0.0",
     "@sucrase/jest-plugin": "2.2.0",
     "@types/gulp": "4.0.9",
-    "@types/jest": "27.0.2",
+    "@types/jest": "27.0.3",
     "@types/lodash": "4.14.178",
     "@types/sass": "1.43.1",
     "@typescript-eslint/eslint-plugin": "5.6.0",
