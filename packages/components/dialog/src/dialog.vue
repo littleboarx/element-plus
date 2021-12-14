@@ -30,6 +30,7 @@
               },
               customClass,
             ]"
+            v-bind="$attrs"
             aria-modal="true"
             role="dialog"
             :aria-label="title || 'dialog'"
